@@ -1473,6 +1473,18 @@
     <string name="status_bar_logo_position_left">Left</string>
     <string name="status_bar_logo_position_center">Center</string>
 
+    <string name="statusbar_weather_title">Status bar weather</string>
+    <string name="statusbar_weather_summary">Configure from QS settings/Weather.</string>
+    <string name="statusbar_weather_dialog_title">Status bar weather style</string>
+    <string name="status_bar_weather_hidden">Hidde weather</string>
+    <string name="status_bar_temperature_image_show_scale">Show temp with scale and image</string>
+    <string name="status_bar_temperature_image_hide_scale">Show temp with image without scale</string>
+    <string name="status_bar_temperature_show_scale_hide_image">Show temp with scale</string>
+    <string name="status_bar_temperature_hide_scale_hide_image">Show temp without scale</string>
+    <string name="status_bar_show_image">Show image</string>
+    <string name="status_bar_weather_image_color_title">Image color</string>
+    <string name="sb_weather_ic_title">Icon pack</string>
+
     <string name="rr_config_style_title">Configurations style</string>
     <string name="rr_config_n">Nougat</string>
     <string name="rr_config_mm">Classic</string>
@@ -2263,6 +2275,8 @@
     <string name="recent_panel_bg_color_title">Panel background color</string>
     <string name="recent_card_bg_color_title">Card background color</string>
     <string name="recent_card_text_color_title">Card text color</string>
+    <string name="slim_recents_mem_display_long_click_clear_title">Memory bar longpress</string>
+    <string name="slim_recents_mem_display_long_click_clear_summary">Clear recents by long-pressing the memory bar</string>
 
     <!-- ATTENTION: RTL languages need to replace left with right -->
     <string name="recent_panel_lefty_mode_title">Show on the left edge</string>
@@ -2303,6 +2317,9 @@
     <string name="lockscreen_hide_status_bar_title">Hide status bar</string>
     <string name="lockscreen_hide_status_bar_summary">Toggle statusbar visibility on lockscreen</string>
 
+    <string name="confirm_shutdown_switch_title">Shutdown confirmation dialog</string>
+    <string name="confirm_shutdown_switch_desc">When shutdown button is tapped on power menu, add a dialog to confirm shutdown</string>
+
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Kill app button</string>
     <string name="notification_guts_kill_app_button_summary">Show a kill app button in the notification\'s longpress menu</string>
@@ -2318,5 +2335,14 @@
 
     <string name="magisk_title">Magisk Manager</string>
     <string name="magisk_summary">Root management</string>
+
+    <string name="notif_text_color">Text color</string>
+    <string name="status_bar_expanded_empty_shade_view_settings_title">No notifications view</string>
+    <string name="status_bar_expanded_empty_shade_view_settings_summary">Customize the no notifications view</string>
+    <!-- Statusbar expanded empty shade view settings -->
+    <string name="empty_shade_view_show_carrier_name_title">Show carrier name</string>
+    <string name="empty_shade_view_show_carrier_name_summary">Enable to show the carrier name</string>
+    <string name="empty_shade_view_show_wifi_name_title">Show wifi network name</string>
+    <string name="empty_shade_view_show_wifi_name_summary">Enable to show the wifi network name</string>
 
 </resources>
